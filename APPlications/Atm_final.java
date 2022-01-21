@@ -340,7 +340,7 @@ class UserDetails{
         this.name=name;
         this.pass=pass;
         this.ifsc=ifsc;
-        this.acc=acc;
+        this.acc =acc;
         this.state=state;
         this.bank=bank;
         this.count=count;
