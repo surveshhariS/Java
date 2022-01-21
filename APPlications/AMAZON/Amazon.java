@@ -891,11 +891,11 @@ class All extends Amazon{
         v.add(new Vendor("achu","2143",4,"cosmetics",new ArrayList<>()));
     }
     public static void cus(){
-        c.add(new Customer("rithik","1234",new ArrayList<>(),12000,new ArrayList<>()));
-        c.add(new Customer("raghul", "1324",new ArrayList<>(),13000,new ArrayList<>()));
-        c.add(new Customer("vishnu", "4132",new ArrayList<>(),14000,new ArrayList<>()));
-        c.add(new Customer("moune", "3214",new ArrayList<>(),15000,new ArrayList<>()));
-        c.add(new Customer("survesh", "2314",new ArrayList<>(),16000,new ArrayList<>()));
-        c.add(new Customer("naresh", "2431",new ArrayList<>(),17000,new ArrayList<>()));
+        c.add(new Customer("survesh","1234",new ArrayList<>(),12000,new ArrayList<>()));
+        c.add(new Customer("vesh", "1324",new ArrayList<>(),13000,new ArrayList<>()));
+        c.add(new Customer("priya", "4132",new ArrayList<>(),14000,new ArrayList<>()));
+        c.add(new Customer("rames", "3214",new ArrayList<>(),15000,new ArrayList<>()));
+        c.add(new Customer("hari", "2314",new ArrayList<>(),16000,new ArrayList<>()));
+        c.add(new Customer("jon", "2431",new ArrayList<>(),17000,new ArrayList<>()));
     }
 }
