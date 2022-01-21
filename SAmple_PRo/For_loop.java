@@ -6,7 +6,7 @@ public class For_loop {
 		int end = ii.nextInt();
 		for (int i=Start;i<=end;i++) {
 			if(i%4==0) {
-			System.out.println(i);
+			System.out.print(i);
 			ii.close();
 		}
 	}
